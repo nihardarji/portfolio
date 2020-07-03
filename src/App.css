@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+
+.row.margin {
+  margin: 0 9% 0 9%;
+}
+
+.cyan.darken-3.row.margin {
+  margin: 0 9% 2% 9%;
+}
+
+.row.no-margin{
+  margin: 0
+}
+
+div {
+  scroll-margin-top: 5rem;
+}
