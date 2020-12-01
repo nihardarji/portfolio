@@ -24,7 +24,7 @@ const Project = () => {
                         <li>Redux for state management</li>
                     </p>
                     <p>
-                    <a href="https://github.com/nihardarji/IT-Logger" className='btn btn-small right cyan darken-4'>Source-Code</a>
+                    <a href="https://github.com/nihardarji/IT-Logger" rel='noopener noreferrer' target='_blank' className='btn btn-small right cyan darken-4'>Source-Code</a>
                     </p>
                 </VerticalTimelineElement>
                 <VerticalTimelineElement
@@ -43,8 +43,8 @@ const Project = () => {
                         for CRUD operations, Mongo Atlas for cloud storage of data & JSON Web Token for authentication</li>
                     </p>
                     <p>
-                    <a href="https://lit-meadow-22152.herokuapp.com" className='btn btn-small cyan darken-4'>Demo</a>
-                    <a href="https://github.com/nihardarji/ContactKeeper" className='btn btn-small right cyan darken-4'>Source-Code</a>
+                    <a href="https://lit-meadow-22152.herokuapp.com" rel='noopener noreferrer' target='_blank' className='btn btn-small cyan darken-4'>Demo</a>
+                    <a href="https://github.com/nihardarji/ContactKeeper" rel='noopener noreferrer' target='_blank' className='btn btn-small right cyan darken-4'>Source-Code</a>
                     </p>
                 </VerticalTimelineElement>
                 <VerticalTimelineElement
@@ -61,7 +61,7 @@ const Project = () => {
                         <li>React Web Application which makes use of Express server as Backend & MongoDB as Database</li>
                     </p>
                     <p>
-                    <a href="https://github.com/nihardarji/MyBlog-Fullstack" className='btn btn-small cyan darken-4 right'>Source-Code</a>
+                    <a href="https://github.com/nihardarji/MyBlog-Fullstack" rel='noopener noreferrer' target='_blank' className='btn btn-small cyan darken-4 right'>Source-Code</a>
                     </p>
                 </VerticalTimelineElement>
                 <VerticalTimelineElement
@@ -78,8 +78,8 @@ const Project = () => {
                         <li>Makes use of React Hooks, context APIs, and Github’s API</li>
                     </p>
                     <p>
-                    <a href="https://githubfinder2324.netlify.app" className='btn btn-small cyan darken-4'>Demo</a>
-                    <a href="https://github.com/nihardarji/GitHubFinder" className='btn btn-small cyan darken-4 right'>Source-Code</a>
+                    <a href="https://githubfinder2324.netlify.app" rel='noopener noreferrer' target='_blank' className='btn btn-small cyan darken-4'>Demo</a>
+                    <a href="https://github.com/nihardarji/GitHubFinder" rel='noopener noreferrer' target='_blank' className='btn btn-small cyan darken-4 right'>Source-Code</a>
                     </p>
                 </VerticalTimelineElement>
                 <VerticalTimelineElement

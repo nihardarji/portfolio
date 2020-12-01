@@ -62,7 +62,7 @@ const Contact = () => {
                     </form>
                 </div>
                 <div className="center">
-                <div className="LI-profile-badge"  data-version="v1" data-size="large" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="nihar2317"><a className="LI-simple-link" href='https://www.linkedin.com/in/nihar2317?trk=profile-badge'>Nihar Darji</a></div>
+                <div className="LI-profile-badge"  data-version="v1" data-size="large" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="nihar2317"><a className="LI-simple-link"  href='https://www.linkedin.com/in/nihar2317?trk=profile-badge'>Nihar Darji</a></div>
                 </div>
             </div>
         </div>
