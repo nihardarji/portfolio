@@ -13,7 +13,7 @@ const Experience = () => {
                     className="vertical-timeline-element--work"
                     contentStyle={{ background: '#00796b', color: '#fff' }}
                     contentArrowStyle={{ borderRight: '7px solid  #fff' }}
-                    date="Oct 2020 - Present"
+                    date="Oct 2020 - Dec 2020"
                     iconStyle={{ background: '#004d40 ', color: '#fff' }}
                 >
                 <h4 className="vertical-timeline-element-title" style={{'textAlign':'left'}}>Software Developer Intern</h4>
@@ -34,8 +34,10 @@ const Experience = () => {
                 <h5 className="vertical-timeline-element-subtitle">SRKay Consulting Group</h5>
                 <p>
                     <li>Worked as a Full Stack (MEAN) Web Developer for product SCIKEY which is Talent Hiring Platform using AI, Mathematics & Psychology</li>
-                    <li>Contributed towards designing and developing web applications using Node.JS , Express.JS, AngularJS and MongoDB</li>
-                    <li>Experience on working with REST APIs</li>
+                    <li>Developed responsive web components using front-end technologies using Angular & 
+                        RESTful Express APIs using NodeJS and Implemented MongoDB and mongoose services</li>
+                    <li>Worked with JavaScript and jQuery for client-side scripting</li>
+                    <li>Manage source code management & builds using GitLab and Jenkins</li>
                 </p>
                 </VerticalTimelineElement>
                 <VerticalTimelineElement

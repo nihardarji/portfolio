@@ -9,7 +9,7 @@ const Navbar = () => {
                 <a href="#!" data-target="mobile-nav" className="sidenav-trigger"><i className="material-icons">menu</i></a>
                 <div className="nav-wrapper">
                 <ul>
-                    <li className='right'><a href="https://www.linkedin.com/in/nihar2317/" target='_blank' rel="noopener noreferrer" className=" white-text"><i className="fa fa-linkedin small" aria-hidden="true"></i></a></li>
+                    <li className='right'><a href="https://www.linkedin.com/in/nihar2308/" target='_blank' rel="noopener noreferrer" className=" white-text"><i className="fa fa-linkedin small" aria-hidden="true"></i></a></li>
                     <li className='right'><a href="https://github.com/nihardarji" target='_blank' rel="noopener noreferrer" className=" white-text"><i className="fa fa-github small" aria-hidden="true"></i></a></li>
                 </ul>
                     <ul id="nav-mobile" className="left hide-on-med-and-down">

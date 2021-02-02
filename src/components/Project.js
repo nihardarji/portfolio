@@ -13,6 +13,49 @@ const Project = () => {
                     className="vertical-timeline-element--work"
                     contentStyle={{ background: '#00838f', color: '#fff' }}
                     contentArrowStyle={{ borderRight: '7px solid  #fff' }}
+                    date="Dec 2020"
+                    iconStyle={{ background: '#006064', color: '#fff' }}
+                >
+                    <h4 className="vertical-timeline-element-title">Banking Application</h4>
+                    <h5 className="vertical-timeline-element-subtitle">Fullstack Application(MERN)</h5>
+                    <p>
+                        <li>Developed in React as frontend, redux for state management with ExpressJS server using MongoDB as database </li>
+                        <li>A Banking application with user authentication using JWT</li>
+                        <li>Added profile to view/edit details for users</li>
+                        <li>Account screen with withdraw/deposit transaction functionality, summary page to view details of the transactions</li>
+                        <li>Establised reliable transactions functionality by using MongoDB transactions</li>
+                    </p>
+                    <p>
+                    <a href="https://safe-refuge-01459.herokuapp.com/" rel='noopener noreferrer' target='_blank' className='btn btn-small cyan darken-4'>Demo</a>
+                    <a href="https://github.com/nihardarji/banking-app" rel='noopener noreferrer' target='_blank' className='btn btn-small right cyan darken-4'>Source-Code</a>
+                    </p>
+                </VerticalTimelineElement>
+                <VerticalTimelineElement
+                    className="vertical-timeline-element--work"
+                    contentStyle={{ background: '#00838f', color: '#fff' }}
+                    contentArrowStyle={{ borderRight: '7px solid  #fff' }}
+                    date="Jan 2021"
+                    iconStyle={{ background: '#006064', color: '#fff' }}
+                >
+                    <h4 className="vertical-timeline-element-title">E-Commerce Application</h4>
+                    <h5 className="vertical-timeline-element-subtitle">MERN stack Web Application</h5>
+                    <p>
+                        <li>Custom E-Commerce application built using React, Redux, NodeJS, ExpressJS & MongoDB</li>
+                        <li>Performed user authentication using JSON Web Tokens, added custom authentication middleware
+                        &  password encryption</li>
+                        <li>Integrated PayPal API for payments with fully functional shopping cart</li>
+                        <li>Product search, rating & review system with pagination</li>
+                        <li>Admin area for managing users, products & orders</li>
+                    </p>
+                    <p>
+                    <a href="https://ecommerceapp2308.herokuapp.com/" rel='noopener noreferrer' target='_blank' className='btn btn-small cyan darken-4'>Demo</a>
+                    <a href="https://github.com/nihardarji/E-Commerce" rel='noopener noreferrer' target='_blank' className='btn btn-small right cyan darken-4'>Source-Code</a>
+                    </p>
+                </VerticalTimelineElement>
+                <VerticalTimelineElement
+                    className="vertical-timeline-element--work"
+                    contentStyle={{ background: '#00838f', color: '#fff' }}
+                    contentArrowStyle={{ borderRight: '7px solid  #fff' }}
                     date="June 2020"
                     iconStyle={{ background: '#006064', color: '#fff' }}
                 >
@@ -39,7 +82,7 @@ const Project = () => {
                     <p>
                         <li>MERN stack Web Application to maintain the contacts of registered users</li>
                         <li>Provides user the functionality to filter, edit, add & delete contacts</li>
-                        <li>Developed using React Hooks for state management , context APIs, RESTful APIs
+                        <li>Developed using React Hooks, context APIs for state management, RESTful APIs
                         for CRUD operations, Mongo Atlas for cloud storage of data & JSON Web Token for authentication</li>
                     </p>
                     <p>

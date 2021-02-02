@@ -21,7 +21,9 @@ const Education = () => {
                     </p>
                     <p className='white-text'>
                        <b>Relavent Course Work</b>
-                        {' '} <i>Introduction to Artificial Intelligence, Introduction to Algorithms, Machine Learning, Advanced Database Organization, Computer Networks, Big Data Technology, Design & Analysis of Algorithms, Software Project Management, Data Mining</i> 
+                        {' '} <i>Introduction to Artificial Intelligence, Introduction to Algorithms, Machine Learning, 
+                            Advanced Database Organization, Computer Networks, Big Data Technology, Design & Analysis of Algorithms, 
+                            Software Project Management, Data Mining, Geospatial Vision/Visualization</i> 
                     </p>
                 </TimelineItem>
                 <TimelineItem

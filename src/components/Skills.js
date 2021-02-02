@@ -39,11 +39,11 @@ const Skills = () => {
             <div className='row margin'>
                 <h4 className='white-text center'> Languages </h4>
                 <SkillBar skills={skills} colors={color}/>
-                <div className='col s6'>
+                <div className='col s12 l6'>
                     <h4 className='white-text center'> Web Technologies </h4>
                     <SkillBar skills={technology} colors={color}/>
                 </div>
-                <div className='col s6'>
+                <div className='col s12 l6'>
                     <h4 className='white-text center'> Databases & Others </h4>
                     <SkillBar skills={others} colors={color}/>
                 </div>                
