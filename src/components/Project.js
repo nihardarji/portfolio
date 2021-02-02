@@ -23,7 +23,7 @@ const Project = () => {
                         <li>A Banking application with user authentication using JWT</li>
                         <li>Added profile to view/edit details for users</li>
                         <li>Account screen with withdraw/deposit transaction functionality, summary page to view details of the transactions</li>
-                        <li>Establised reliable transactions functionality by using MongoDB transactions</li>
+                        <li>Established reliable transactions functionality by using MongoDB transactions</li>
                     </p>
                     <p>
                     <a href="https://safe-refuge-01459.herokuapp.com/" rel='noopener noreferrer' target='_blank' className='btn btn-small cyan darken-4'>Demo</a>
