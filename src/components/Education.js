@@ -10,7 +10,7 @@ const Education = () => {
             <Timeline lineColor={'#fff'}>
                 <TimelineItem
                     key="001"
-                    dateText="Aug 2019 – Present"
+                    dateText="Aug 2019 – May 2021"
                     style={{ color: '#101010', 'textAlign':'justify' }}
                     dateInnerStyle={{ background: '#00838f', color: '#000' }}
                 >

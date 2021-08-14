@@ -24,8 +24,8 @@ const About = () => {
                 <h6>
                     <Typist>
                         Hi...!!! <br/>
-                        I'm a Computer Science Graduate Student from Illinois Institute of Technology, Chicago.<br/>
-                        I have worked as a Full stack Web Developer.<br/>
+                        I'm working as a Software Development Engineer.<br/>
+                        I'm a Computer Science Graduate from Illinois Institute of Technology, Chicago.<br/>
                         Keen and enthusiastic to seek and apply my knowledge in a challenging environment which will help me to explore my potential.
                     </Typist>
                 </h6>
