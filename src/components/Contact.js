@@ -38,7 +38,7 @@ const Contact = () => {
                 <h1 className='white-text'>Contact</h1>
             </div>
             <div className='row'>
-                <div className='col s12 l6'>
+                <div className='col s12 l6 offset-l3'>
                     <form onSubmit={onSubmit}>
                     <div className="input-field white-text">
                         <input id="first_name" name='name' value={name} onChange={e => { setName(e.target.value)}} type="text" className="validate white-text" required/>
@@ -61,9 +61,9 @@ const Contact = () => {
                     </div>
                     </form>
                 </div>
-                <div className="col s12 l6 center">
+                {/* <div className="col s12 l6 center">
                 <div className="LI-profile-badge"  data-version="v1" data-size="large" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="nihar2317"><a className="LI-simple-link"  href='https://www.linkedin.com/in/nihar2317?trk=profile-badge'>Nihar Darji</a></div>
-                </div>
+                </div> */}
             </div>
         </div>
     )

@@ -17,7 +17,7 @@ const Education = () => {
                     <h4 className='white-text' style={{ 'textAlign':'left' }}>Illinois Institute of Technology, <i>Chicago</i></h4>
                     <h5 className='white-text' style={{ 'textAlign':'left' }}>Master's in Computer Science</h5>
                     <p className='white-text'>
-                        <b>GPA</b>{' '}3.33
+                        <b>GPA</b>{' '}3.40
                     </p>
                     <p className='white-text'>
                        <b>Relavent Course Work</b>
