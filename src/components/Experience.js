@@ -13,14 +13,24 @@ const Experience = () => {
                     className="vertical-timeline-element--work"
                     contentStyle={{ background: '#00796b', color: '#fff' }}
                     contentArrowStyle={{ borderRight: '7px solid  #fff ' }}
-                    date="March 2021 - Present"
+                    date="Oct 2021 - Present"
+                    iconStyle={{ background: '#004d40 ', color: '#fff' }}
+                >
+                    <h4 className="vertical-timeline-element-title" style={{'textAlign':'left'}}>Software Engineer</h4>
+                    <h5 className="vertical-timeline-element-subtitle">Dematic</h5>
+                </VerticalTimelineElement>
+                <VerticalTimelineElement
+                    className="vertical-timeline-element--work"
+                    contentStyle={{ background: '#00796b', color: '#fff' }}
+                    contentArrowStyle={{ borderRight: '7px solid  #fff ' }}
+                    date="March 2021 - Oct 2021"
                     iconStyle={{ background: '#004d40 ', color: '#fff' }}
                 >
                     <h4 className="vertical-timeline-element-title" style={{'textAlign':'left'}}>Software Engineer</h4>
                     <h5 className="vertical-timeline-element-subtitle">Shoptelligence Inc.</h5>
                     <p>
                         <li>Involved in implementing new features, improving engineering performance & integrating with public facing APIs</li>
-                        <li>Developed features in Python & MySQL</li>
+                        <li>Worked on Google Cloud Platform services like BigQuery, Cloud SDK</li>
                     </p>
                 </VerticalTimelineElement>
                 <VerticalTimelineElement
